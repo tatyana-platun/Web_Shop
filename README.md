@@ -1,4 +1,4 @@
-# 🗄 Webshop 
+# 🗄 WebShop
 
 В рамках домашнего задания проводилось тестирование интернет-магазина http://demowebshop.tricentis.com/ 
 
